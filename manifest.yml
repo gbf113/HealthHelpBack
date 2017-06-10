@@ -1,0 +1,15 @@
+---
+applications:
+- name: HealthHelpBack
+  memory: 512M
+  host: HealthHelpBack
+  domain: mybluemix.net
+  services:
+  - New Relic-me
+  - availability-monitoring-auto
+  - ClearDB MySQL Database-kc
+  - Monitoring and Analytics-hr
+  - Track & Plan-hp
+  - Auto-Scaling-ej
+  - Continuous Delivery-5b
+  - Application Security on Cloud-km
