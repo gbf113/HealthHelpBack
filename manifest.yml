@@ -7,7 +7,7 @@ applications:
   services:
   - availability-monitoring-auto
   - ClearDB MySQL Database-kc
-  - Track & Plan-hp
   - Auto-Scaling-ej
   - Continuous Delivery-5b
   - Application Security on Cloud-km
+  - Monitoring and Analytics-e7
